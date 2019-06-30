@@ -1,8 +1,3 @@
-INSTALL SEMUA DEPENDENCY : npm install
-JALANKAN APLIKASI		 : react-native run-android
-username				 : tonjoo
-password				 : tonjoo
-
 This project was bootstrapped with React Native
 
 ## Available Scripts
